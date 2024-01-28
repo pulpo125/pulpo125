@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 [<img src="https://img.shields.io/badge/Tistory-EA4335?style=flat-square&logo=tistory&logoColor=white"/>](https://openthehabang.tistory.com/)
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>]()
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>](https://habang125.notion.site/HAYOUNG-KANG-PORTFOLIO-19884927cfef45a69fd251f870427d3f?pvs=4)
 
 > 🏫 **디지털경영(경영정보학)을 전공**하여 데이터의 힘을 깨닫고, 최근 **데이터 애널리시스 교육**을 수료했습니다. <br>
 > ❓ **비즈니스 문제를 데이터로 해결**하고자 고민합니다. <br>
