@@ -1,4 +1,5 @@
 # 📊 Monthly Monitoring Dashboard
+<img width="869" alt="대시보드" src="https://github.com/pulpo125/pulpo125/assets/118874524/8f4aa139-9abb-417f-83f0-53910d8ac40b">
 
 ## ✏️ 프로젝트 주제
 - ‘Financial Consumer Complaints’, 금융 소비자 불만 사항에 대한 월별 모니터링 대시보드
