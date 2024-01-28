@@ -22,7 +22,7 @@
 |Cowork|<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ## 📋 Projects
-### 1. 메인 프로젝트: [AI Player](https://github.com/pulpo125/pulpo125/blob/main/AI_Player.md)
+### 1. [메인 프로젝트: 💿AI Player ](https://github.com/pulpo125/pulpo125/blob/main/AI_Player.md)
 - 2023-09-04 ~ 2023-10-19 (6주)
 - 딥러닝 기반 플레이리스트 자동 생성 서비스 'AI Player' 개발 및 팀장 역할 수행
 
