@@ -30,7 +30,7 @@
 - 2023-05 ~ 2023-06 (6일)
 - 규칙 기반 추천 시스템, 콘텐츠 기반 필터링, 협업 필터링, Matrix Factorization 추천 시스템 개발
 
-### 3. [엔터주 상관관계 분석](https://github.com/pulpo125/mini_Stock_Analysis.git)
+### 3. [엔터사 주식 데이터 분석](https://github.com/pulpo125/mini_Stock_Analysis.git)
 - 2023-05-26 ~ 2023-05-30 (2일)
 - 대표 엔터사(JYP, YG, SM, HYBE) 주식 상관관계 분석 및 연간 엔터사별 Top 앨범 출시에 따른 주가 변동률 분석
 
