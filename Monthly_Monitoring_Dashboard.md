@@ -1,4 +1,4 @@
-# 📈 Monthly Monitoring Dashboard
+# 📊 Monthly Monitoring Dashboard
 
 ## ✏️ 프로젝트 주제
 - ‘Financial Consumer Complaints’, 금융 소비자 불만 사항에 대한 월별 모니터링 대시보드
