@@ -26,4 +26,12 @@
 - 2023-09-04 ~ 2023-10-19 (6주)
 - 딥러닝 기반 플레이리스트 자동 생성 서비스 'AI Player' 개발 및 팀장 역할 수행
 
+### 2. [3-Steps 영화 추천 시스템](https://github.com/pulpo125/mini_Movie_Reco.git)
+- 2023-05 ~ 2023-06 (총 6일)
+- 규칙 기반 추천 시스템, 콘텐츠 기반 필터링, 협업 필터링, Matrix Factorization 추천 시스템 개발
+
+### 3. [엔터주 상관관계 분석](https://github.com/pulpo125/mini_Stock_Analysis.git)
+- 2023-05-26 ~ 2023-05-30 (2일)
+- 대표 엔터사(JYP, YG, SM, HYBE) 주식 상관관계 분석 및 연간 엔터사별 Top 앨범 출시에 따른 주가 변동률 분석
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
