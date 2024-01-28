@@ -84,8 +84,9 @@
 ### 4. 팀장
 - 프로젝트 스케줄 관리를 위한 `Notion 워크스페이스 구축` 및 파일 및 형상 관리를 위한 `Github Team 레포지터리 관리`
 
-    ![notion_pling](https://github.com/pulpo125/portfolio/assets/118874524/63e48985-16ba-4fae-a1a6-71feebea93a5)
-
+   ![notion_pling](https://github.com/pulpo125/pulpo125/assets/118874524/a5e0de0f-8477-470e-89b8-e6dc589767f9)
+   ### [🧑‍🤝‍🧑 Go to Team Notion](https://habang125.notion.site/Pling-f853e0ed4d1348299a247b32910c9134?pvs=4)
+   
 ## 👀 Insight
 - AI Player 프로젝트는 딥러닝 모델 학습부터 서비스 구현 및 배포까지 `전체 AI 서비스 개발 과정을 경험`할 수 있는 기회였습니다.
 - 특히, 팀장으로서 프로젝트 성공을 위해 '일정 관리' 만큼 `명확한 커뮤니케이션이 중요`한 부분임을 깨닫게 되었습니다.
